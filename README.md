@@ -65,7 +65,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**GitaVerse**](https://play.google.com/store) | Live on Google Play — real-time AI Krishna voice app with sub-500ms latency, RevenueCat monetization, multi-language support | Flutter · FastAPI · Pipecat · WebRTC · Deepgram · ElevenLabs · Docker |
+| [**GitaVerse**](https://play.google.com/store/apps/details?id=com.gitaverse.mobile_app&pcampaignid=web_share) | Live on Google Play — real-time AI Krishna voice app with sub-500ms latency, RevenueCat monetization, multi-language support | Flutter · FastAPI · Pipecat · WebRTC · Deepgram · ElevenLabs · Docker |
 | [**Crewgle AI**](https://crewgleai.com) | Generative AI recruitment platform — AI-powered candidate interviewing & screening for staffing companies | Python · FastAPI · OpenAI · WebRTC |
 | **RAG Voice Assistant** | Context-aware multi-turn AI conversations grounded in proprietary knowledge bases | LangChain · FAISS · FastAPI · ElevenLabs |
 | **Local Speech-to-Speech** | Fully offline inference stack — zero third-party API cost, privacy-first enterprise deployment | Ollama · Whisper · Kokoro-82M |
