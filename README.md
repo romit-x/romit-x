@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey 👋, I'm Romit Pal
+# Hey 👋, I'm Romit
 ### SDE · Real-Time Voice AI · Full Stack · 2× Patent Holder
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=600&lines=Building+Real-Time+Voice+AI+Systems;FastAPI+%2B+Flutter+%2B+WebRTC+Developer;LLM+%7C+RAG+%7C+Pipecat+%7C+ElevenLabs;Sub-500ms+Voice+Pipeline+Engineer)](https://git.io/typing-svg)
@@ -98,10 +98,11 @@
 
 ---
 
+
 ### 🔗 Connect with me
 
 <p>
   <a href="mailto:reach2romit.cs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/romit-pal-3001a4217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/codewithrio/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
