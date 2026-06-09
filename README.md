@@ -55,7 +55,7 @@ Achievements:
 
 <!-- ============================== TECH ARSENAL ============================== -->
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> The Arsenal
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> Tech Arsenal
 
 <div align="center">
 
