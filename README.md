@@ -1,108 +1,237 @@
+<!-- ============================== MARVEL BANNER ============================== -->
+
 <div align="center">
 
-# Hey 👋, I'm Romit
-### SDE · Real-Time Voice AI · Full Stack · 2× Patent Holder
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=600&lines=Building+Real-Time+Voice+AI+Systems;FastAPI+%2B+Flutter+%2B+WebRTC+Developer;LLM+%7C+RAG+%7C+Pipecat+%7C+ElevenLabs;Sub-500ms+Voice+Pipeline+Engineer)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=romit-x&style=flat-square&color=orange)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1D24,50:FFCC00,100:0066B3&height=220&section=header&text=Romit%20Pal&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SDE%20%E2%80%A2%20Voice%20AI%20Engineer%20%E2%80%A2%20Patent%20Holder&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
----
+<!-- ============================== TYPING SVG ============================== -->
 
-### 🚀 About Me
+<div align="center">
 
-- 💼 **SDE @ Leap91 Technologies** — building Crewgle AI, a generative AI recruitment platform
-- 📱 Built [**GitaVerse**](https://play.google.com/store) — live on Google Play, real-time AI Krishna voice app with sub-500ms latency
-- 🎙️ Engineered production voice pipelines: **WebRTC · Deepgram STT · OpenAI GPT-4 · ElevenLabs TTS · Pipecat**
-- 🧠 Built **RAG systems** with LangChain + FAISS for context-aware multi-turn AI conversations
-- 🔒 Built fully **local Speech-to-Speech stack** (Ollama + Whisper + Kokoro-82M) — zero API cost, offline-ready
-- 🏆 **2× Patent Co-Applicant** · Published researcher (Springer ICIDA) · Hackathon Finalist (7th All-India)
-- 🎓 B.Tech CSE (AI-ML) · CGPA 9.50/10 · Brainware University, Kolkata
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=ED1D24&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%22I+am+Iron+Man.%22+—+building+real-time+voice+AI;%E2%9A%A1+Sub-500ms+latency+%7C+WebRTC+%7C+LLM+pipelines;%F0%9F%9B%A1%EF%B8%8F+Full-Stack+Avenger+%7C+FastAPI+%2B+Flutter;%F0%9F%94%A8+Whatever+it+takes+to+ship+production-grade)](https://git.io/typing-svg)
 
----
+<a href="https://github.com/romit-x">
+  <img src="https://komarev.com/ghpvc/?username=romit-x&style=for-the-badge&color=ED1D24&label=PROFILE+VIEWS" alt="profile views"/>
+</a>
+<img src="https://img.shields.io/github/followers/romit-x?style=for-the-badge&color=FFCC00&labelColor=0D1117&logo=github" alt="followers"/>
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE-0066B3?style=for-the-badge&labelColor=0D1117" alt="status"/>
 
-### ⚡ Tech Stack
+</div>
 
-**Languages & Frameworks**
+<!-- ============================== ABOUT ME ============================== -->
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+## <img src="https://media.giphy.com/media/2Je4fmYZHvbNkLBSnD/giphy.gif" width="30"/> Origin Story
 
-**AI / GenAI**
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deepgram-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ElevenLabs-black?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
+```yaml
+Hero Name: Romit Kumar Pal
+Codename: romit-x
+Base: Kolkata, India 🇮🇳
+Mission: Software Development Engineer
+Affiliation: Leap91 Technologies × Crewgle AI
 
-**Infrastructure & Databases**
+Superpowers:
+  - Real-time Voice AI Pipelines (sub-500ms)
+  - LLM + RAG Architecture
+  - Full-Stack Development
+  - Production-grade APIs
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_Blob-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
-</p>
+Equipment:
+  - Python · FastAPI · Flutter · Dart
+  - WebRTC · Deepgram · OpenAI · ElevenLabs
+  - LangChain · FAISS · Pipecat · Docker
 
----
+Achievements:
+  - 2× Patent Co-Applicant 🏆
+  - Springer Published Researcher 📄
+  - CODESPIRE 2023: 7th All-India 🥇
+  - CGPA: 9.50 / 10.00 🎓
+```
 
-### 🏗️ Featured Projects
+<br/>
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**GitaVerse**](https://play.google.com/store/apps/details?id=com.gitaverse.mobile_app&pcampaignid=web_share) | Live on Google Play — real-time AI Krishna voice app with sub-500ms latency, RevenueCat monetization, multi-language support | Flutter · FastAPI · Pipecat · WebRTC · Deepgram · ElevenLabs · Docker |
-| [**Crewgle AI**](https://crewgleai.com) | Generative AI recruitment platform — AI-powered candidate interviewing & screening for staffing companies | Python · FastAPI · OpenAI · WebRTC |
-| **RAG Voice Assistant** | Context-aware multi-turn AI conversations grounded in proprietary knowledge bases | LangChain · FAISS · FastAPI · ElevenLabs |
-| **Local Speech-to-Speech** | Fully offline inference stack — zero third-party API cost, privacy-first enterprise deployment | Ollama · Whisper · Kokoro-82M |
+<!-- ============================== TECH ARSENAL ============================== -->
 
----
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> The Arsenal
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romit-x&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romit-x&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
-</p>
+### ⚙️ Languages & Frameworks
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romit-x&theme=radical"/>
-</p>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,fastapi,flutter,dart,dotnet,cs,react,nodejs,js,ts&perline=10" /></a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=romit-x&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
+### 🤖 AI / GenAI Stack
 
----
+<a href="#"><img src="https://skillicons.dev/icons?i=openai,pytorch,tensorflow,sklearn&perline=10" /></a>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pipecat-FF6B35?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deepgram-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white"/>
 
-### 📜 Research & Patents
+### 🛡️ Infrastructure & Databases
 
-- 🔬 **Patent** — "Kanoon Mitra" · AI/NLP legal chatbot using knowledge graphs `(App No: 202331049760A)`
-- 🔬 **Patent** — "Chakravyuh" · AI video surveillance for theft & antisocial behaviour detection `(App No: 202331049753A)`
-- 📄 **Published** — "An AI Based Integrated Framework for Motion Activated Facial Recognition" · Springer ICIDA
-- 🏆 **CODESPIRE 2023** — Ranked **7th All-India** in national-level coding & product innovation hackathon
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,firebase,mongodb,postgres,azure,gcp,git,github,linux,vscode&perline=10" /></a>
 
----
+### 📡 Real-Time & APIs
 
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+<img src="https://img.shields.io/badge/Daily.co-1F1F1F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/RevenueCat-EB5757?style=for-the-badge&logoColor=white"/>
 
-### 🔗 Connect with me
+</div>
 
-<p>
-  <a href="mailto:reach2romit.cs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/romit-pal-3001a4217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/codewithrio/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
+<!-- ============================== MISSIONS / PROJECTS ============================== -->
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Featured Missions
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🕉️ GitaVerse — Voice of Krishna AI
+**Live on Google Play Store**
+
+Real-time AI Krishna voice app with **sub-500ms latency**, multi-language support (Hindi/English/Hinglish), RevenueCat monetization, and Docker-based production infra.
+
+`Flutter` `FastAPI` `Pipecat` `WebRTC` `Deepgram` `OpenAI` `ElevenLabs`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Crewgle AI
+**Generative AI Recruitment Platform**
+
+AI-powered candidate interviewing & screening. Built modular REST APIs, microservices, and real-time interview infrastructure with WebRTC + Daily.co.
+
+`Python` `FastAPI` `OpenAI` `WebRTC` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 RAG Voice Assistant for GBS
+**Enterprise Knowledge AI**
+
+Context-aware multi-turn voice AI grounded in proprietary docs with accurate retrieval and natural conversation flow.
+
+`LangChain` `FAISS` `FastAPI` `ElevenLabs`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 Local Speech-to-Speech Stack
+**Zero-Cost Offline AI**
+
+Fully local inference eliminating third-party API costs — privacy-first, enterprise-ready deployment.
+
+`Ollama` `Whisper` `Kokoro-82M TTS`
+
+</td>
+</tr>
+</table>
+
+<!-- ============================== STATS — MARVEL THEMED ============================== -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Battle Stats
+
+<div align="center">
+
+<!-- DARK MODE STATS -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=romit-x&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ED1D24&icon_color=FFCC00&text_color=FFFFFF&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=romit-x&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=ED1D24&icon_color=0066B3&text_color=000000&cache_seconds=1800" height="170"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=romit-x&layout=compact&hide_border=true&bg_color=0D1117&title_color=ED1D24&text_color=FFFFFF&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romit-x&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=ED1D24&text_color=000000&cache_seconds=1800" height="170"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=romit-x&hide_border=true&background=0D1117&stroke=ED1D24&ring=FFCC00&fire=ED1D24&currStreakLabel=FFCC00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=ED1D24&dates=AAAAAA"/>
+  <img src="https://streak-stats.demolab.com?user=romit-x&hide_border=true&background=FFFFFF&stroke=ED1D24&ring=0066B3&fire=ED1D24&currStreakLabel=0066B3&currStreakNum=000000&sideNums=000000&sideLabels=ED1D24&dates=666666" alt="streak"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=romit-x&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=romit-x&theme=flat&no-frame=true&row=1&column=7&margin-w=10" alt="trophies"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=romit-x&bg_color=0D1117&color=ED1D24&line=FFCC00&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romit-x&bg_color=FFFFFF&color=ED1D24&line=0066B3&point=000000&area=true&hide_border=true" alt="activity graph"/>
+</picture>
+
+</div>
+
+<!-- ============================== RESEARCH ============================== -->
+
+## <img src="https://media.giphy.com/media/3oKIPic2way8DhVraY/giphy.gif" width="30"/> Research & Patents
+
+<table align="center">
+<tr><td>
+
+- 🔬 **Patent** — *"Kanoon Mitra"* · AI/NLP legal chatbot using knowledge graphs &nbsp;`App No: 202331049760A`
+- 🔬 **Patent** — *"Chakravyuh"* · AI video surveillance for theft & antisocial behaviour detection &nbsp;`App No: 202331049753A`
+- 📄 **Published** — *"An AI Based Integrated Framework for Motion Activated Facial Recognition"* · Springer ICIDA
+- 🏆 **CODESPIRE 2023** — Ranked **7th All-India** · National-level coding & product innovation hackathon
+
+</td></tr>
+</table>
+
+<!-- ============================== CONNECT ============================== -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Assemble With Me
+
+<div align="center">
+
+<a href="mailto:reach2romit.cs@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
+<a href="https://linkedin.com/in/romit-pal-3001a4217/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="https://leetcode.com/u/codewithrio/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
+</a>
+<a href="https://github.com/romit-x">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</a>
+<a href="https://www.instagram.com/romit.wasright._/">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+</a>
+
+</div>
+
+<!-- ============================== QUOTE ============================== -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+
+</div>
+
+<!-- ============================== FOOTER ============================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066B3,50:FFCC00,100:ED1D24&height=120&section=footer&text=Whatever%20It%20Takes&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" width="100%"/>
+
+</div>
