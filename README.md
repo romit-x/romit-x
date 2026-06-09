@@ -99,21 +99,29 @@ Achievements:
 <td width="50%" valign="top">
 
 ### 🕉️ GitaVerse — Voice of Krishna AI
-**Live on Google Play Store**
+**🟢 Live on Google Play Store**
 
 Real-time AI Krishna voice app with **sub-500ms latency**, multi-language support (Hindi/English/Hinglish), RevenueCat monetization, and Docker-based production infra.
 
 `Flutter` `FastAPI` `Pipecat` `WebRTC` `Deepgram` `OpenAI` `ElevenLabs`
 
+<a href="https://play.google.com/store/apps/details?id=com.gitaverse.mobile_app&pcampaignid=web_share">
+  <img src="https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 Crewgle AI
-**Generative AI Recruitment Platform**
+**🟢 Live Platform**
 
-AI-powered candidate interviewing & screening. Built modular REST APIs, microservices, and real-time interview infrastructure with WebRTC + Daily.co.
+AI-powered candidate interviewing & screening for staffing companies. Built modular REST APIs, microservices, and real-time interview infrastructure with WebRTC + Daily.co.
 
 `Python` `FastAPI` `OpenAI` `WebRTC` `Docker`
+
+<a href="https://crewgleai.com">
+  <img src="https://img.shields.io/badge/Visit-crewgleai.com-ED1D24?style=for-the-badge&logo=safari&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -140,7 +148,6 @@ Fully local inference eliminating third-party API costs — privacy-first, enter
 </td>
 </tr>
 </table>
-
 <!-- ============================== STATS — MARVEL THEMED ============================== -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Battle Stats
