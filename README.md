@@ -155,32 +155,31 @@ Fully local inference eliminating third-party API costs — privacy-first, enter
 <div align="center">
 
 <!-- STATS CARDS -->
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=romit-x&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ED1D24&icon_color=FFCC00&text_color=FFFFFF&cache_seconds=86400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=romit-x&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=ED1D24&icon_color=0066B3&text_color=000000&cache_seconds=86400" height="170"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romit-x&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romit-x&theme=default" alt="profile details"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=romit-x&layout=compact&hide_border=true&bg_color=0D1117&title_color=ED1D24&text_color=FFFFFF&cache_seconds=86400&langs_count=8"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romit-x&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=ED1D24&text_color=000000&cache_seconds=86400&langs_count=8" height="170"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=romit-x&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=romit-x&theme=default" alt="stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=romit-x&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=romit-x&theme=default" alt="repos per language"/>
 </picture>
 
-<br/><br/>
-
-<!-- STREAK -->
-<img src="https://streak-stats.demolab.com?user=romit-x&hide_border=true&background=0D1117&stroke=ED1D24&ring=FFCC00&fire=ED1D24&currStreakLabel=FFCC00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=ED1D24&dates=AAAAAA#gh-dark-mode-only" alt="streak"/>
-<img src="https://streak-stats.demolab.com?user=romit-x&hide_border=true&background=FFFFFF&stroke=ED1D24&ring=0066B3&fire=ED1D24&currStreakLabel=0066B3&currStreakNum=000000&sideNums=000000&sideLabels=ED1D24&dates=666666#gh-light-mode-only" alt="streak"/>
-
-<br/><br/>
-
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=romit-x&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="trophies"/>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=romit-x&bg_color=0D1117&color=ED1D24&line=FFCC00&point=FFFFFF&area=true&hide_border=true&custom_title=Romit's%20Contribution%20Graph#gh-dark-mode-only" alt="activity graph"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=romit-x&bg_color=FFFFFF&color=ED1D24&line=0066B3&point=000000&area=true&hide_border=true&custom_title=Romit's%20Contribution%20Graph#gh-light-mode-only" alt="activity graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=romit-x&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=romit-x&theme=default" alt="most commit language"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=romit-x&theme=github_dark&utcOffset=5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=romit-x&theme=default&utcOffset=5" alt="productive time"/>
+</picture>
 
 </div>
 
