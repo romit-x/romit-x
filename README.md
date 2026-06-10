@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1D24,50:FFCC00,100:0066B3&height=220&section=header&text=Romit%20Pal&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SDE%20%E2%80%A2%20Voice%20AI%20Engineer%20%E2%80%A2%20Patent%20Holder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1D24,50:FFCC00,100:0066B3&height=220&section=header&text=Romit%20Pal&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SDE%20%E2%80%A2%20Full Stack%20AI%20Engineer%20%E2%80%A2%20Patent%20Holder&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
